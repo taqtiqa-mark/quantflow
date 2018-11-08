@@ -1,2 +1,2 @@
-# fairydust
-Vagrant+Rkt+Nomad+Consul+Spark+Jupyter=Fairydust
+# QuantFlow
+Vagrant+Rkt+Nomad+Consul+Spark+Jupyter=QuantFlow
